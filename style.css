@@ -88,8 +88,8 @@ html, body {
 }
 
 .hero a {
-  color:white;
-  background-color: rgb(23, 22, 22);
+  color:rgb(23, 22, 22);
+  background-color: white;
   box-shadow: var(--shadow);
   border-radius:12px;
   -webkit-border-radius:12px;
@@ -99,8 +99,8 @@ html, body {
 }
 
 .hero a:hover {
-  background-color: white;
-  color: black;
+  background-color: rgb(23, 22, 22);
+  color: white;
   border-radius: 12px;
   -webkit-border-radius: 12px;
   -moz-border-radius: 12px;
